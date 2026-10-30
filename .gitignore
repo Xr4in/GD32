@@ -52,6 +52,7 @@ JLinkSettings.ini
 .vscode/
 .idea/
 .cache/
+.workbuddy/
 .DS_Store
 Thumbs.db
 desktop.ini
